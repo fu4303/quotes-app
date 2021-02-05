@@ -18,13 +18,13 @@
   align-items: center;
   flex-direction: column;
   width: 500px;
-  border: solid white 10px;
+  border: solid white 8px;
   border-radius: 0.8rem;
 }
 
 .button {
-  width: 120px;
-  height: 30px;
+  width: 240px;
+  height: 45px;
   margin-top: 10px;
   border-radius: 0.5rem;
   color: black;
@@ -35,9 +35,9 @@
 }
 
 .quote {
-  font-size: 25px;
+  font-size: 35px;
   font-family: 'Courier New', Courier, monospace;
-  color: white;
+  color: blue;
   font-weight: bold;
   margin: 10px;
 }
