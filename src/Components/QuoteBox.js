@@ -16,7 +16,7 @@ const QuoteBox = () => {
             <div className='quote'>
                 <Text position={randomNumber} />
                 <button onClick={handleRandomNumber} className='button'>
-                    New quote 
+                    Spit out another
                 </button>
             </div> 
         </div>
