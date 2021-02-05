@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
   height: 45.1rem;
-  background-color: #90E0EF;
+  background-color: linear-gradient(to right, rgb(238, 113, 158), rgb(203, 240, 255));;
 }
 
 .box {
