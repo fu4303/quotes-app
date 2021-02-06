@@ -34,7 +34,7 @@
   font-size: 19px;
 }
 
-.quote {
+.quoteText {
   font-size: 35px;
   font-family: 'Courier New', Courier, monospace;
   color: blue;
@@ -42,7 +42,7 @@
   margin: 10px;
 }
 
-.author {
+.quoteAuthor {
   font-size: 18px;
   color: blue;
   font-family: 'Century';
