@@ -1,5 +1,7 @@
-[{
-	"quoteText": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+{
+    "quotes": [
+	{
+		"quoteText": "Genius is one percent inspiration and ninety-nine percent perspiration.",
 		"quoteAuthor": "Thomas Edison"
 	},
 	{
@@ -11942,4 +11944,5 @@
 		"quoteText": "If you have no respect for your own values how can you be worthy of respect from others.",
 		"quoteAuthor": "Byron Pulsifer"
 	}
-]
+      ]	    
+    }
