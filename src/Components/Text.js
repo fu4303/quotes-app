@@ -4,8 +4,8 @@ import '../App.css'
 const Text = ({position}) => {
     return (
         <div>
-            <p className="quote">"{Data.quotes[position].quote}"</p>
-            <p className="author">{Data.quotes[position].author}</p>
+            <p className="quoteText">"{Data.quotes[position].quoteText}"</p>
+            <p className="quoteAuthor">{Data.quotes[position].quoteAuthor}</p>
         </div>
     )
 }
