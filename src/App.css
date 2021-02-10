@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
   height: 45.1rem;
-  background-color: linear-gradient(to right, rgb(238, 113, 158), rgb(203, 240, 255));;
+  background-color: #ffc0ad;
 }
 
 .box {
@@ -18,7 +18,7 @@
   align-items: center;
   flex-direction: column;
   width: 750px;
-  border: solid white 8px;
+  border: #e78fb3 8px;
   border-radius: 0.8rem;
 }
 
@@ -29,7 +29,7 @@
   border-radius: 0.5rem;
   color: black;
   font-weight: bold;
-  background-color: #f5f4f4;
+  background-color: #ffc0ad;
   border: none;
   font-size: 19px;
 }
@@ -37,14 +37,14 @@
 .quoteText {
   font-size: 35px;
   font-family: 'Courier New', Courier, monospace;
-  color: blue;
+  color: #9656a1;
   font-weight: bold;
   margin: 10px;
 }
 
 .quoteAuthor {
   font-size: 18px;
-  color: blue;
+  color: #9656a1;
   font-family: 'Century';
   font-weight: bold;
   margin: 13px;
